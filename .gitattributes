@@ -1,0 +1,7 @@
+# 自動將文字檔案的行尾轉換為 LF
+* text=auto
+
+# 避免二進位檔案的行尾轉換
+*.png binary
+*.jpg binary
+*.webp binary

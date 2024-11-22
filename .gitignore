@@ -22,7 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-*.jpg
 *.webp
 node_modules/
 dist/
+*.jpg
+*.png
+*.gif
+/images/
